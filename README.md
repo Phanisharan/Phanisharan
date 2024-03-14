@@ -20,7 +20,7 @@ I completed a web scraping project focused on extracting data from the BikeWale 
 
 ## Get in Touch
 
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/phani-sharan-19a748285)
 - 📧 Email me at phanisharan47@gmail.com
   
 ## Seeking Job Opportunities
