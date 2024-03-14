@@ -14,13 +14,13 @@ Here are some of the projects I've been working on:
 
 ### Web Scraping Project: BikeWale Website
 
-I completed a web scraping project focused on extracting data from the BikeWale website. Using Python, BeautifulSoup, and Pandas, I extracted valuable information such as bike models, prices, specifications, and more. Check out the results in the projects section below!
+I completed a web scraping project focused on extracting data from the Multiple websites. Using Python, BeautifulSoup, and Pandas, I extracted valuable information such as names, models, prices, specifications, and more. Check out the results in the projects section below!
 
-[Link to the project repository or deployed application] (https://github.com/Phanisharan/WebScrapping.git)
+(https://github.com/Phanisharan/WebScrapping.git)
 
 ## Get in Touch
 
-- 🔗 Connect with me on [LinkedIn] (https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/phani-sharan-19a748285)
+- 🔗 Connect with me on [LinkedIn] (https://www.linkedin.com/in/phani-sharan-19a748285)
 - 📧 Email me at phanisharan47@gmail.com
   
 ## Seeking Job Opportunities
