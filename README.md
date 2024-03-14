@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm PhaniSharan Boini, a passionate in Python and 
 
 Here are some of the projects I've been working on:
 
-### Web Scraping Project: BikeWale Website
+### 1. Web Scraping Project
 
 I completed a web scraping project focused on extracting data from the Multiple websites. Using Python, BeautifulSoup, and Pandas, I extracted valuable information such as names, models, prices, specifications, and more. Check out the results in the projects section below!
 
