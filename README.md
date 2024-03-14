@@ -20,12 +20,12 @@ I completed a web scraping project focused on extracting data from the BikeWale 
 
 ## Get in Touch
 
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/phani-sharan-19a748285)
+- 🔗 Connect with me on [LinkedIn] (https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/phani-sharan-19a748285)
 - 📧 Email me at phanisharan47@gmail.com
   
 ## Seeking Job Opportunities
 
-I'm actively looking for full-time job opportunities in software development, data analysis, or related fields. 
+I'm actively looking for full-time job opportunities in software development roles. 
 If you're an employer looking for talented individuals to join your team, I'd love to connect and discuss potential opportunities. 
 Feel free to reach out via email or LinkedIn to start the conversation.
 
