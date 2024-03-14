@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm PhaniSharan Boini, a passionate in Python and 
 
 ## About Me
 
-- 🎓 Currently pursuing a BTech degree in Computer Science from Jayamukhi institute of Technological Sciences
+- 🎓 I am Currently in Final year pursuing a BTech degree in Computer Science from Jayamukhi institute of Technological Sciences
 - 💻 Learning Python and exploring its applications in various fields
 - 🌱 Always eager to learn new technologies and expand my skillset
 
