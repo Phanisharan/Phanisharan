@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm PhaniSharan Boini, a passionate in Python and Mlops. Here you'll find a collection of my projects, Python projects to machine learning experiments. 
+Welcome to my GitHub profile! I'm PhaniSharan Boini, a passionate in Python and Mlops. Here, you'll find a diverse collection of projects where I've explored my interests in Python and delved into the exciting world of machine learning. 
 
 ## About Me
 
