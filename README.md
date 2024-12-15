@@ -1,22 +1,13 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm PhaniSharan Boini, a passionate in Python and Mlops. Here, you'll find a diverse collection of projects where I've explored my interests in Python and delved into the exciting world of machine learning. 
+Welcome to my GitHub profile! I'm PhaniSharan Boini, a passionate in Python. Here, you'll find a diverse collection of projects where I've explored my interests in Python and delved into the exciting world of web development
 
 ## About Me
 
-- 🎓 I am Currently in Final year pursuing a BTech degree in Computer Science from Jayamukhi institute of Technological Sciences
+- 🎓 I am Fresher graduated at BTech degree in Computer Science from Jayamukhi institute of Technological Sciences
 - 💻 Learning Python and exploring its applications in various fields
 - 🌱 Always eager to learn new technologies and expand my skillset
 
-## Projects
-
-Here are some of the projects I've been working on:
-
-### 1. Web Scraping Project
-
-I completed a web scraping project focused on extracting data from the Multiple websites. Using Python, BeautifulSoup, and Pandas, I extracted valuable information such as names, models, prices, specifications, and more. Check out the results in the projects section below!
-
-https://github.com/Phanisharan/WebScrapping.git
 
 ## Get in Touch
 
