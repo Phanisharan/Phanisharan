@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm PhaniSharan Boini, a passionate in Python. Her
 ## Get in Touch
 
 - 🔗 Connect with me on [LinkedIn] https://www.linkedin.com/in/phani-sharan-19a748285
-- 📧 Email me at phanisharan47@gmail.com
+- 📧 Email me at phanisharan31@gmail.com
   
 ## Seeking Job Opportunities
 
