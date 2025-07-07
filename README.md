@@ -1,26 +1,33 @@
-# Hi there! 👋
+## 👋 Hi there! Welcome to my GitHub Profile!
 
-Welcome to my GitHub profile! I'm PhaniSharan Boini, a passionate in Python. Here, you'll find a diverse collection of projects where I've explored my interests in Python and delved into the exciting world of web development
+I'm **PhaniSharan Boini**, a passionate developer exploring the world of **Python**, **web development**, and **modern UI technologies**. On this profile, you'll find projects that reflect my curiosity, learning journey, and dedication to building clean and effective software.
 
-## About Me
+---
 
-- 🎓 I am Fresher graduated at BTech degree in Computer Science from Jayamukhi institute of Technological Sciences
-- 💻 Learning Python and exploring its applications in various fields
-- 🌱 Always eager to learn new technologies and expand my skillset
+### 👨‍💻 About Me
 
+* 🎓 **Computer Science Graduate** (B.Tech) from Jayamukhi Institute of Technological Sciences
+* 💡 Working on **frontend development** using **React** and **TypeScript** to build responsive and user-friendly interfaces
+* 🐍 Strong foundation in **Python** for scripting, automation, and backend logic
+* 🌱 Always eager to learn new technologies and improve my problem-solving skills
+* 🔧 Also familiar with **HTML**, **CSS**, **JavaScript**, **SQL**, and backend concepts
 
-## Get in Touch
+---
 
-- 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/phani-sharan-19a748285
-- 📧 Email me at phanisharan31@gmail.com
-  
-## Seeking Job Opportunities
+### 💼 Seeking Opportunities
 
-I'm actively looking for full-time job opportunities in software development roles. 
-If you're an employer looking for talented individuals to join your team, I'd love to connect and discuss potential opportunities. 
-Feel free to reach out via email or LinkedIn to start the conversation.
+I'm actively looking for **full-time roles** in **Software or Frontend Development**.
+If you're hiring or open to connecting, I'd be happy to discuss potential opportunities!
 
-## Support
+---
 
-If you find any of my projects interesting or useful, consider giving them a ⭐️ star to show your support!
+### 📬 Get in Touch
 
+* 🔗 [LinkedIn](https://www.linkedin.com/in/phani-sharan-19a748285)
+* 📧 [phanisharan31@gmail.com](mailto:phanisharan31@gmail.com)
+
+---
+
+### ⭐ Support
+
+If any of my work interests you or helps you out, consider giving it a ⭐️. Your support encourages me to keep learning and building!
