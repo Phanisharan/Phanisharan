@@ -6,7 +6,7 @@ I'm **PhaniSharan Boini**, a passionate developer exploring the world of **Pytho
 
 ### 👨‍💻 About Me
 
-* 🎓 **Computer Science Graduate** (B.Tech) from Jayamukhi Institute of Technological Sciences
+* 🎓 **Computer Science Graduate** (B.Tech)
 * 💡 Working on **frontend development** using **React** and **TypeScript** to build responsive and user-friendly interfaces
 * 🐍 Strong foundation in **Python** for scripting, automation, and backend logic
 * 🌱 Always eager to learn new technologies and improve my problem-solving skills
